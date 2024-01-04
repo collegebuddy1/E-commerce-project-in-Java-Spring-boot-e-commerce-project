@@ -3,9 +3,13 @@
 Welcome to the Ecommerce project repository! This project is of an online shopping website with many features, such as:
 product cart, form validation, payment via stripe and many more.
 
-# Demo video
+## PROJECT MART - College Project Service
 
-https://user-images.githubusercontent.com/107776531/210157428-27683ea2-275d-45e7-9d49-af22bb618a83.mp4
+Text now to get college project done
+
+[![Whatsapp Contact](https://www.projectmart.in/_next/static/media/Logo.99b856f5.svg)](https://api.whatsapp.com/send?phone=917676409450&text=Could%20you%20help%20me%20complete%20my%20college%20project%3F)
+
+Contact us now on **Whatsapp**([Click here](https://api.whatsapp.com/send?phone=917676409450&text=Could%20you%20help%20me%20complete%20my%20college%20project%3F))
 
 ## Technologies Used
 
