@@ -2,6 +2,12 @@
   <div *ngIf="isAuthenticated && userFullName" class="login-status-user-info">
     Welcome back {{ userFullName }}
   </div>
+  <iframe
+  src="https://www.projectmart.in/cta"
+  style="width: 100%; height: 500px; border: none;"
+  title="Embedded CTA"
+  scrolling="no"
+></iframe>
 
   <button *ngIf="!isAuthenticated" routerLink="/login" class="security-btn">
     Login
@@ -10,6 +16,12 @@
   <button *ngIf="isAuthenticated" (click)="logout()" class="security-btn">
     Logout
   </button>
+  <iframe
+  src="https://www.projectmart.in/cta"
+  style="width: 100%; height: 500px; border: none;"
+  title="Embedded CTA"
+  scrolling="no"
+></iframe>
 
   <button *ngIf="isAuthenticated" routerLink="/members" class="security-btn">Member</button>
 
